@@ -12,4 +12,4 @@ Two commands are available.
 permissions:
 smallspawn.setspawn
 
-!!!The plugin will be posted on SpigotMc.com and here on July 9, 2020!!!
+!!!The plugin will be posted on SpigotMc.com and here on July 10, 2020!!!
