@@ -1,0 +1,22 @@
+main: fr.papysweek.smallspawn.Main
+name: SmallSpawn
+version: 1.0.0
+api-version: 1.8
+author: PapySweek
+website: https://github.com/PapySweek/SmallSpawn
+database: false
+load: POSTWORLD
+commands:
+  spawn:
+    description: Teleport to Spawn
+  setspawn:
+    description: Define the spawn point
+    permission: smallspawn.setspawn
+permissions:
+  smallspawn.*:
+    description: Gives access to all SmallSpawn's commands
+    children:
+      smallspawn.setspawn: true
+  smallspawn.setspawn:
+    description: Allows you to set the server spawn
+    default: op
