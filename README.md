@@ -38,10 +38,14 @@ smallspawn.setspawn
 - Spigot 1.13.1 - SmallSpawn 1.0.122
 - Spigot 1.13.2 - SmallSpawn 1.0.1
 - Spigot 1.14 - SmallSpawn 1.0.1
-- Spigot 1.8 - SmallSpawn 1.0.1
-- Spigot 1.8 - SmallSpawn 1.0.1
-- Spigot 1.8 - SmallSpawn 1.0.1
-- Spigot 1.8 - SmallSpawn 1.0.1
+- Spigot 1.14.1 - SmallSpawn 1.0.1
+- Spigot 1.14.2 - SmallSpawn 1.0.1
+- Spigot 1.14.3 - SmallSpawn 1.0.1
+- Spigot 1.14.4 - SmallSpawn 1.0.1
+- Spigot 1.15 - SmallSpawn 1.0.1
+- Spigot 1.15.1 - SmallSpawn 1.0.1
+- Spigot 1.15.2 - SmallSpawn 1.0.1
+- Spigot 1.16.1 - SmallSpawn 1.0.1
 
 # Config
 ```yaml
