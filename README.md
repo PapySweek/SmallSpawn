@@ -13,11 +13,11 @@ Two commands are available.
 
 /spawn
 
-  no permission
+    no permission
   
 /setspawn
 
-  permission: smallspawn.setspawn
+    permission: smallspawn.setspawn
 
 # Tested Spigot Version
 
