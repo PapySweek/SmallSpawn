@@ -27,9 +27,9 @@ public class Spawn implements CommandExecutor {
                     (float) spawnFile.getDouble("spawn.yaw"),
                     (float) spawnFile.getDouble("spawn.pitch"));
             player.teleport(spawn);
-            player.sendMessage(ChatColor.translateAlternateColorCodes('&', "&6Lol tu tp"));
+            player.sendMessage(ChatColor.translateAlternateColorCodes('&', spawnFile.getString("messages.teleportedSpawn")));
         } else {
-            sender.sendMessage("§8[§6SmallSpawn§8] §cSeul un joueur peut effectuer cette commande.");
+            sender.sendMessage("§8[§6SmallSpawn§8] §cOnly players can do this.");
         }
         return true;
     }
