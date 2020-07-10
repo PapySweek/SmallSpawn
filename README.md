@@ -4,6 +4,7 @@
 Spigot version availability: 1.8-1.16.1
 
 For spigot versions 1.8 - 1.12.2 use version 1.0.0
+
 For spigot versions 1.13 - 1.16.1 use version 1.0.1
 
 SmallSpawn is a rather simple plugin for your server which manages a simple spawn.
