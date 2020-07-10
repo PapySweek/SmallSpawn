@@ -11,12 +11,9 @@ Yes it is a very basic plugin but it can be used and is not very bulky.
 
 Two commands are available.
 / spawn
+  no permission
 / setspawn
-
-permissions:
-smallspawn.setspawn
-
-!!!The plugin will be posted on SpigotMc.com and here on July 10, 2020!!!
+  permission: smallspawn.setspawn
 
 # Tested Spigot Version
 
