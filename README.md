@@ -10,9 +10,13 @@ For spigot versions 1.13 - 1.16.1 use version 1.0.1
 SmallSpawn is a rather simple plugin for your server which manages a simple spawn.
 
 Two commands are available.
-/ spawn
+
+/spawn
+
   no permission
-/ setspawn
+  
+/setspawn
+
   permission: smallspawn.setspawn
 
 # Tested Spigot Version
