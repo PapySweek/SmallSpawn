@@ -39,15 +39,10 @@ public class SetSpawn implements CommandExecutor {
                         e.printStackTrace();
                     }
 
-                    player.sendMessage(ChatColor.translateAlternateColorCodes('&', "&2SPAWN SET"));
-                    return true;
-                } else {
-                    sender.sendMessage("§8[§6SmallSpawn§8] §cVous n'avez pas la permission d'executer cette commande.");
-                    return true;
+                    player.sendMessage(ChatColor.translateAlternateColorCodes('&', spawnFile.getString("messages.definedSpawn")));
                 }
             } else {
-                sender.sendMessage("§8[§6SmallSpawn§8] §cSeul un joueur peut effectuer cette commande.");
-                return true;
+                sender.sendMessage("§8[§6SmallSpawn§8] §cOnly players can do this.");
             }
         }
         return true;
