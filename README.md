@@ -1,6 +1,6 @@
 # SmallSpawn
 
-Version availability: 1.8-1.16.1
+Spigot version availability: 1.8-1.16.1
 
 SmallSpawn is a rather simple plugin for your server which manages a simple spawn.
 Yes it is a very basic plugin but it can be used and is not very bulky.
