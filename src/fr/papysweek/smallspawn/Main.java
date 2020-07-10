@@ -57,6 +57,8 @@ public class Main extends JavaPlugin {
                 spawn.set("spawn.z", 0.5);
                 spawn.set("spawn.yaw", (float) -180.0);
                 spawn.set("spawn.pitch", (float) 0.0);
+                spawn.set("messages.teleportedSpawn", "&6You have been teleported to the spawn");
+                spawn.set("messages.definedSpawn", "&6You have defined a new server spawn point");
                 try {
                     spawn.save(getFile("spawn"));
                 } catch (IOException e) {
