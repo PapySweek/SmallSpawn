@@ -45,6 +45,7 @@ smallspawn.setspawn
 
 # Config
 ```yaml
+/** The Spawn Coordinates*/
 spawn:
   world: world
   x: 0.5
@@ -52,6 +53,7 @@ spawn:
   z: 0.5
   yaw: 180
   pitch: 0.0
+/** The Plugin messages*/
 messages:
   teleportedSpawn: '&6You have been teleported to the spawn'
   definedSpawn: '&6You have defined a new point the server spawn'
