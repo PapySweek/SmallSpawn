@@ -1,9 +1,11 @@
 ![logo](logo.png)
 # SmallSpawn
 
+https://www.spigotmc.org/resources/smallspawn.81324/
+
 Spigot version availability: 1.8-1.16.1
 
-For spigot versions 1.8 - 1.12.2 use version 1.0.0
+For spigot versions 1.8 - 1.12.2 use version 1.0.0 use :  https://www.spigotmc.org/resources/smallspawn.81324/history
 
 For spigot versions 1.13 - 1.16.1 use version 1.0.1
 
