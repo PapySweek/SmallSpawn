@@ -34,10 +34,9 @@ smallspawn.setspawn
 - Spigot 1.12 - SmallSpawn 1.0.0
 - Spigot 1.12.1 - SmallSpawn 1.0.0
 - Spigot 1.12.2 - SmallSpawn 1.0.0
-- Spigot 1.130000 - SmallSpawn 1.0.1
-- Spigot 1.13.10000 - SmallSpawn 1.0.1
-- Spigot 1.13.20000 - SmallSpawn 1.0.1
-- Spigot 1.8 - SmallSpawn 1.0.1
+- Spigot 1.13.1 - SmallSpawn 1.0.122
+- Spigot 1.13.2 - SmallSpawn 1.0.1
+- Spigot 1.14 - SmallSpawn 1.0.1
 - Spigot 1.8 - SmallSpawn 1.0.1
 - Spigot 1.8 - SmallSpawn 1.0.1
 - Spigot 1.8 - SmallSpawn 1.0.1
