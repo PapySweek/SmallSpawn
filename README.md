@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png)
+![logo](logo.png)
 # SmallSpawn
 
 Spigot version availability: 1.8-1.16.1
