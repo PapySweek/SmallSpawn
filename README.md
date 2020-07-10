@@ -42,3 +42,17 @@ smallspawn.setspawn
 - Spigot 1.8 - SmallSpawn 1.0.1
 - Spigot 1.8 - SmallSpawn 1.0.1
 - Spigot 1.8 - SmallSpawn 1.0.1
+
+# Config
+```yaml
+spawn:
+  world: world
+  x: 0.5
+  y: 64
+  z: 0.5
+  yaw: 180
+  pitch: 0.0
+messages:
+  teleportedSpawn: '&6You have been teleported to the spawn'
+  definedSpawn: '&6You have defined a new point the server spawn'
+```
